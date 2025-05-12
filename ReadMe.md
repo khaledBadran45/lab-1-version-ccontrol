@@ -1,1 +1,1 @@
-git config --global --add safe.directory D:/iti/Crowdfunding\ Platform
+suumariz of the prog
